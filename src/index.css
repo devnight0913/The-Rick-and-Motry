@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Betanty";
+  src: url("./assets/fonts/Betanty.otf") format("opentype");
+}
+@font-face {
+  font-family: "Akrobat";
+  src: url("./assets/fonts/Akrobat.otf") format("opentype");
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("./assets/fonts/Gilroy.otf") format("opentype");
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins.otf") format("opentype");
+}
